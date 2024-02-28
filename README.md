@@ -17,7 +17,7 @@ Proyecto para registrar, eliminar o buscar contactos de la agenda.
 * <img align="center" alt="html5" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
 * <img align="center" alt="css3" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
 * <img align="center" alt="javascript" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-* <img align="center" alt="react" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg/>
+* <img align="center" alt="react" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
 * <img align="center" alt="typescript" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
 * <img align="center" alt="antdesign" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg"/>
 * <img align="center" alt="npm" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>
